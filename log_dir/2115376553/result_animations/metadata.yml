@@ -1,0 +1,30 @@
+0:
+  mean_reward: 857
+  relative_path: log_dir/2115376553/result_animations/320000_steps_857_rew.gif
+  std_reward: 114
+  steps: 320000
+1:
+  mean_reward: 1567
+  relative_path: log_dir/2115376553/result_animations/640000_steps_1567_rew.gif
+  std_reward: 92
+  steps: 640000
+2:
+  mean_reward: 2005
+  relative_path: log_dir/2115376553/result_animations/960000_steps_2005_rew.gif
+  std_reward: 61
+  steps: 960000
+3:
+  mean_reward: 2293
+  relative_path: log_dir/2115376553/result_animations/1280000_steps_2293_rew.gif
+  std_reward: 196
+  steps: 1280000
+4:
+  mean_reward: 2556
+  relative_path: log_dir/2115376553/result_animations/1600000_steps_2556_rew.gif
+  std_reward: 83
+  steps: 1600000
+5:
+  mean_reward: 2755
+  relative_path: log_dir/2115376553/result_animations/1920000_steps_2755_rew.gif
+  std_reward: 103
+  steps: 1920000
